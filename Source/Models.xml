@@ -4,7 +4,7 @@
   <Header>
     <Version val="14050.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="3"/>
+    <LastIsn val="4"/>
     <LastIsnFolder val="0"/>
   </Header>
 
@@ -25,6 +25,13 @@
         </PropertyList>
       </Object>
       <Object id="4194307" name="Model2">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object id="4194308" name="fdfdfd">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_ALPHA" id="1"/>
         </PropertyList>
